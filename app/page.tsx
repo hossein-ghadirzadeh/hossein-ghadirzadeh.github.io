@@ -1,6 +1,6 @@
 import Image from "next/image";
 import { AiOutlineLinkedin } from "react-icons/ai";
-import { FiPhoneCall } from "react-icons/fi";
+import { FiGithub, FiPhoneCall } from "react-icons/fi";
 import { HiOutlineMail } from "react-icons/hi";
 import avatar from "../public/avatar.jpg";
 
@@ -11,7 +11,7 @@ export default function Home() {
         <div className="mx-auto p-10 py-10">
           <div className="flex flex-col-reverse gap-10 lg:flex-row">
             <div className="flex-grow max-lg:text-center lg:w-1/6">
-              <h2 className="text-5xl py-2 text-teal-600">
+              <h2 className="text-5xl py-2 max-md:text-3xl text-teal-600">
                 Hossein Ghadirzadeh
               </h2>
               <h3 className="text-2xl py-2 md:text-3xl">
@@ -44,9 +44,9 @@ export default function Home() {
                 next project!
               </p>
 
-              <div className="text-5xl flex justify-center lg:justify-start gap-16 py-3 text-gray-600">
+              <div className="text-5xl flex justify-center lg:justify-start gap-16 max-lg:gap-6 py-3 text-gray-600">
                 <a
-                  href="https://www.linkedin.com/in/hossein-ghadirzadeh/"
+                  href="https://www.linkedin.com/in/hossein-ghadirzadeh"
                   target="_blank"
                 >
                   <AiOutlineLinkedin />
@@ -56,6 +56,12 @@ export default function Home() {
                 </a>
                 <a href="tel:+971527809028">
                   <FiPhoneCall />
+                </a>
+                <a
+                  href="https://github.com/hossein-ghadirzadeh"
+                  target="_blank"
+                >
+                  <FiGithub />
                 </a>
               </div>
             </div>
