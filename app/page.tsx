@@ -54,7 +54,7 @@ export default function Home() {
                 <a href="mailto:hossein.ghadirzadeh@gmail.com">
                   <HiOutlineMail />
                 </a>
-                <a href="tel:+971527809028">
+                <a href="tel:+46736105586">
                   <FiPhoneCall />
                 </a>
                 <a
