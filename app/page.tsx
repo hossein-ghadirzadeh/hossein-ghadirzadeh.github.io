@@ -20,18 +20,18 @@ export default function Home() {
               <p className="text-md py-5 text-gray-800 whitespace-normal">
                 Welcome to my corner of the web! With over{" "}
                 <span className="font-burtons">7</span> years of experience, I'm
-                a seasoned full-stack developer with a passion for crafting
-                dynamic and interactive web applications. My toolkit includes
-                JavaScript, TypeScript, React.js, Next.js, Node.js, and Nest.js.
-                Whether it's building robust backend services or crafting
-                seamless user interfaces, I thrive on turning ideas into
-                reality.
+                As a service-oriented front-end developer, I bring over 6 years of productive experience 
+                across diverse industries and tech stacks. I specialize in HTML, CSS, JavaScript, TypeScript, 
+                and frameworks like React, and Next.js. My deep grasp of back-end systems, web services, 
+                and cloud architectures has enabled me to implement 5 large-scale applications. 
+                My collaboration with various companies has made me intimately familiar with 
+                all stages of the web development lifecycle, from initial architecture to final deployment.
               </p>
 
               <div className="py-5">
                 <a
                   className="bg-gradient-to-r from-cyan-500 text- to-teal-500 text-white px-6 py-2 border-none rounded-md"
-                  href="https://www.canva.com/design/DAFmudAVFgg/VESPyUwceWuteN2NKz5Rfg/view?website#2"
+                  href="https://www.canva.com/design/DAGFsQShCUw/ccnkZwxm-TiG23ADkhdm5Q/edit?utm_content=DAGFsQShCUw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
                   target="_blank"
                 >
                   Resume
