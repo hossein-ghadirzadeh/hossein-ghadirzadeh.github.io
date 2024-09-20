@@ -15,7 +15,7 @@ export default function Home() {
                 Hossein Ghadirzadeh
               </h2>
               <h3 className="text-2xl py-2 md:text-3xl">
-                Full-stack developer.
+                Front-End developer.
               </h3>
               <p className="text-md py-5 text-gray-800 whitespace-normal">
                 Welcome to my corner of the web! With over{" "}
