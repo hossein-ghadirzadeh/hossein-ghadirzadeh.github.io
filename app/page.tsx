@@ -18,9 +18,8 @@ export default function Home() {
                 Front-End developer.
               </h3>
               <p className="text-md py-5 text-gray-800 whitespace-normal">
-                Welcome to my corner of the web! With over{" "}
-                <span className="font-burtons">7</span> years of experience, I'm
-                As a service-oriented front-end developer, I bring over 6 years of productive experience 
+                Welcome to my corner of the web! As a service-oriented front-end developer, 
+                I bring over <span className="font-burtons">6</span> years of productive experience 
                 across diverse industries and tech stacks. I specialize in HTML, CSS, JavaScript, TypeScript, 
                 and frameworks like React, and Next.js. My deep grasp of back-end systems, web services, 
                 and cloud architectures has enabled me to implement 5 large-scale applications. 
